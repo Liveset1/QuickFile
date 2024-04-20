@@ -1,0 +1,3 @@
+[submodule "dependencies/Win32Gui"]
+	path = dependencies/Win32Gui
+	url = https://github.com/Liveset1/Win32Gui
