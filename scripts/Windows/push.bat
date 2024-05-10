@@ -1,5 +1,5 @@
 @echo off
-cd ../
+cd ../../
 git add .
 git commit -m "Initial"
 git push
